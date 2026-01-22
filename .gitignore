@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Thumbnails
+._*
+
+# Generated files (optional - uncomment if you don't want to commit generated HTML)
+# works-generated/
